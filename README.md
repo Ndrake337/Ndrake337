@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is Matheus
 
-<!--
-**Ndrake337/Ndrake337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student of Computer Engineering in the 4th semester at SENAC, like 90% of the coders, I'm just a nerd guy that starts code because likes computer and games.
 
-Here are some ideas to get you started:
+I like to think that I can be great in both, hardware and software, actually I'm more a software guy, but I also love work with some IOT code and stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some things I'm doing at the moment:
+
+- 🔭 I'm working on full stack applications with Node Js, React and React Native, soon will be here on github. Also I'm using NodeMCU to create a smart plug extender with some collegues at college as my hardware project
+
+- 🌱 I’m currently learning python beacause I want to study more about Artificial Inteligence, one of my biggers passions in tech
+
+- 📫 You can reach me using the email: matheus.felipe337@gmail.com
