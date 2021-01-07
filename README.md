@@ -12,6 +12,4 @@ Some things I'm doing at the moment:
 
 - 📫 You can reach me using the email: matheus.felipe337@gmail.com
 
-<p align="center">
-  <iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndrake337&exclude_repo=cem_clipnet&layout=compact&theme=dark" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesjeff&exclude_repo=cem_clipnet&layout=compact&theme=dracula)
