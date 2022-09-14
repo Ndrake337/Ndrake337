@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Matheus
 
-I'm a student of Computer Engineering in the 7th semester of 10 at SENAC, like 90% of the coders, I'm just a nerd guy that starts code because likes computer and games.
+I'm a student of Computer Engineering in the 8th semester of 10 at SENAC, like 90% of the coders, I'm just a nerd guy that starts code because likes computer and games.
 
 I like to think that I can be great in both, hardware and software, actually I'm more a software guy, but I also love work with some IOT code and stuff
 
