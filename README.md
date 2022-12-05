@@ -33,4 +33,4 @@ Some things I'm doing at the moment:
  
 </div>
 
-![Snake animation](https://github.com/Ndrake337)
+![Snake animation](https://github.com/Ndrake337/Ndrake337/blob/output/github-contribution-grid-snake.svg)
