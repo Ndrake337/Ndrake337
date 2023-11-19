@@ -10,7 +10,7 @@ Some things I'm doing at the moment:
 
 - 💼 Currently work as Data Analytics on Itaú Unibanco
 
-<div style="display: inline_block"><br>
+<div style="display:flex; flex-direction: row; gap: 1rem;"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,12 +25,8 @@ Some things I'm doing at the moment:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndrake337&exclude_repo=cem_clipnet&layout=compact&theme=dracula&hide=jupyter%20notebook)
 
 <<<<<<< HEAD
-<div style="display:flex; flex-direction: row;"> 
-=======
-<br />
-<div> 
+<div style="display:flex; flex-direction: row; gap: 1rem;"> 
 
->>>>>>> parent of 7d71b5b (Update README.md)
   <a href = "mailto:matheus.felipe337@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-felipe-neves-campos-cardoso-92828114a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
