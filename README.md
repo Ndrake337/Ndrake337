@@ -24,7 +24,6 @@ Some things I'm doing at the moment:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndrake337&exclude_repo=cem_clipnet&layout=compact&theme=dracula&hide=jupyter%20notebook)
 
-<<<<<<< HEAD
 <div style="display:flex; flex-direction: row; gap: 1rem;"> 
 
   <a href = "mailto:matheus.felipe337@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
