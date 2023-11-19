@@ -30,5 +30,3 @@ Some things I'm doing at the moment:
   <a href="https://www.linkedin.com/in/matheus-felipe-neves-campos-cardoso-92828114a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-
-![Snake animation](https://github.com/Ndrake337/Ndrake337/blob/output/github-contribution-grid-snake.svg)
