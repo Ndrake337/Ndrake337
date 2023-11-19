@@ -12,7 +12,7 @@ Some things I'm doing at the moment:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndrake337&exclude_repo=cem_clipnet&layout=compact&theme=dracula&hide=jupyter%20notebook)
 
-<div> 
+<div style="display:flex; flex-direction: row;"> 
   <a href = "mailto:matheus.felipe337@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-felipe-neves-campos-cardoso-92828114a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
