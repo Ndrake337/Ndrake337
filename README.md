@@ -10,7 +10,7 @@ Some things I'm doing at the moment:
 
 - 💼 Currently work as Data Analytics on Itaú Unibanco
 
-<div style="display:flex; flex-direction: row; gap: 1rem;"><br>
+<div style="display:flex; flex-direction: row; gap: 1rem;">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -19,7 +19,7 @@ Some things I'm doing at the moment:
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
-
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndrake337&exclude_repo=cem_clipnet&layout=compact&theme=dracula&hide=jupyter%20notebook)
 
 <div style="display:flex; flex-direction: row;"> 
