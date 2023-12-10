@@ -9,6 +9,7 @@ Specialties in Backend Development and Analysis and Data Science.
 <br /><br />
 - 💼 Currently work as Data Analytics on Itaú Unibanco
 </div>
+<br />
 <div style="display:flex; flex-direction: row; flex-wrap: wrap; gap: 1rem;">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
