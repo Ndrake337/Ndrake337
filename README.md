@@ -1,4 +1,4 @@
-## <a href="https://youtu.be/rEq1Z0bjdwc?si=F9pim89vYHNMcRxR&t=7" id="hello"> Hello there 👋, My name is Matheus Felipe </a>
+## <a href="https://youtu.be/rEq1Z0bjdwc?si=F9pim89vYHNMcRxR&t=7" id="hello" target="_blank"> Hello there 👋, My name is Matheus Felipe </a>
 
 <div style="display:flex; flex-direction: column;">
 I'm a Bachelor's student in computer engineering at SENAC.
@@ -20,7 +20,7 @@ Specialties in: Analysis and Data Science | Backend Developer.
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="fill:white; color:white; background-color:tra">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 <br />
