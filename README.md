@@ -7,7 +7,7 @@ Specialties in Backend Development and Analysis and Data Science.
 <br /><br />
 - 🔭 Currently focusing my studies on back-end with Java={SpringBoot} and Javascript={Fastify & Nest.JS}
 <br /><br />
-- 💼 Currently work as Data Analytics on Itaú Unibanco
+- 💼 Currently work as Data Analytics at Itaú Unibanco
 </div>
 <br />
 <div style="display:flex; flex-direction: row; flex-wrap: wrap; gap: 1rem;">
