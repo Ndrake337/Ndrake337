@@ -1,23 +1,27 @@
-### Hi there 👋, My name is Matheus Felipe
+## <a href="https://youtu.be/rEq1Z0bjdwc?si=F9pim89vYHNMcRxR&t=7" id="hello"> Hello there 👋, My name is Matheus Felipe </a>
 
-I'm a student of Computer Engineering in the 8th semester of 10 at SENAC, like 90% of the coders, I'm just a nerd guy that starts code because likes computer and games.
+<div style="display:flex; flex-direction: column;">
+I'm a Bachelor's student in computer engineering at SENAC.
+<br /><br />
+Specialties in: Analysis and Data Science | Backend Developer.
 
-Some things I'm doing at the moment:
-
-- 🔭 I'm learning on full stack applications with Node Js, React and React Native, soon will be here on github. 
-
-- 🌱 I’m currently learning python beacause I want to study more about Artificial Inteligence and data science, one of my biggers passions in tech
+- 🔭 Currently focusing my studies on back-end with Java={SpringBoot} and Javascript={Fastify & Nest.JS}
 
 - 💼 Currently work as Data Analytics on Itaú Unibanco
+<div>
 
 <div style="display:flex; flex-direction: row; gap: 1rem;">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 <br />
 
