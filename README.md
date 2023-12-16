@@ -3,7 +3,7 @@
 <div style="display:flex; flex-direction: column; gap: 1rem">
 I'm a Bachelor's student in computer engineering at SENAC.
 
-Specialties in: Analysis and Data Science | Backend Developer.
+Specialties in: Back-End Development | Data Science and Analytics.
 
 - 🔭 Currently focusing my studies on back-end with Java={SpringBoot} and Javascript={Fastify & Nest.JS}
 
