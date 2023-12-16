@@ -4,10 +4,12 @@
 I'm a Bachelor's student in computer engineering at SENAC.
 
 Specialties in: Back-End Development | Data Science and Analytics.
-
+<br />
 - 🔭 Currently focusing my studies on back-end with Java={SpringBoot} and Javascript={Fastify & Nest.JS}
 
-- 💼 Currently work as Data Analytics on Itaú Unibanco
+- 💼 Work as Data Analytics at Itaú Unibanco
+
+- 🚀 I am passionate about programming and I try to write codes that are easy to maintain and that work with as little human intervention as possible, automating things and solving problems is the most fun part of my job
 <div>
 
 <div id="githubOnly">
