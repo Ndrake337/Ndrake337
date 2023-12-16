@@ -1,6 +1,6 @@
 ## <a href="https://youtu.be/rEq1Z0bjdwc?si=F9pim89vYHNMcRxR&t=7" id="hello" target="_blank"> Hello there 👋, My name is Matheus Felipe </a>
 
-<div style="display:flex; flex-direction: column; gap:0.5rem">
+<div style="display:flex; flex-direction: column; gap: 1rem">
 I'm a Bachelor's student in computer engineering at SENAC.
 
 Specialties in: Analysis and Data Science | Backend Developer.
@@ -10,7 +10,7 @@ Specialties in: Analysis and Data Science | Backend Developer.
 - 💼 Currently work as Data Analytics on Itaú Unibanco
 <div>
 
-<div class="githubOnly">
+<div io="githubOnly">
   <div style="display:flex; flex-direction: row; flex-wrap: wrap; gap: 1rem;">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
