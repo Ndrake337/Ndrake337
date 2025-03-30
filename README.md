@@ -1,9 +1,9 @@
 ## <a href="https://youtu.be/rEq1Z0bjdwc?si=F9pim89vYHNMcRxR&t=7" id="hello" target="_blank"> Hello there 👋, My name is Matheus Felipe </a>
 
 <div style="display:flex; flex-direction: column; gap: 1rem">
-I'm a Bachelor's student in computer engineering at SENAC.
+I have a bachelor's degree in computer engineering and am currently studying for a postgraduate degree in software engineering.
 
-Specialties in: Back-End Development | Data Science and Analytics.
+Specialties in: Back-End Development | Data Engineering and Analytics.
 <br />
 - 🔭 Currently focusing my studies on back-end with Java={SpringBoot} and Javascript={Fastify & Nest.JS}
 
